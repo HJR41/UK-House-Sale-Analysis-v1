@@ -3,7 +3,7 @@
 
  ### 2. I am in the process of doing a deep dive into the Data.
 
-### 3. I am currently working within a [test file](1_Tests)  using a sample of 1000 transactions to refine my scripts before run the scripts on the whole dataset within my Project File.
+### 3. I am currently working within a [test file](1_Tests)  using a sample of 1000 transactions to refine my scripts before run the scripts on the whole dataset within my [Project File](2_Project).
 
 
 
